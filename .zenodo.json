@@ -1,0 +1,33 @@
+{
+  "title": "Zacharias Frankel, Darkhe ha-Mishnah: reading edition with English translation",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "description": "<p>The first critical history of the Mishnah and its sages, with an English translation paragraph by paragraph.</p><p>Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.</p><p>Read online: <a href=\"https://openseforim.org/frankel-darkhe/\">https://openseforim.org/frankel-darkhe/</a></p>",
+  "creators": [
+    {
+      "name": "Brand, Ezra"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Judaica",
+    "Hebrew",
+    "digital humanities",
+    "translation",
+    "digital edition"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://openseforim.org/frankel-darkhe/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://babel.hathitrust.org/cgi/pt?id=hvd.hwmg1g",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-book"
+    }
+  ]
+}
