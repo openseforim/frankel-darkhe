@@ -10,8 +10,7 @@ NOTES_HEAD = "Frankel's notes"
 REST = "The introduction to the Mishnah: the Oral Law, the tannaim, the redaction"
 
 # page files are the pages of the HathiTrust PDF of hvd.hwmg1g (file pNNN = PDF page NNN). The PDF's first page is
-# HathiTrust's notice, so file pNNN is image seq NNN-1 in the HathiTrust viewer (not checked in the viewer, which is
-# behind a bot check).
+# HathiTrust's notice, so file pNNN is image seq NNN-1 in the HathiTrust viewer (checked by the owner in the viewer, 24-Nov-2026).
 PAGES_DIR = "data/pages"
 
 

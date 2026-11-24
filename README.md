@@ -20,7 +20,7 @@ paragraph by paragraph, and the scripts that build the reader.
 - **Base text:** the first edition, Leipzig 1859, Harvard copy at HathiTrust
   ([hvd.hwmg1g](https://babel.hathitrust.org/cgi/pt?id=hvd.hwmg1g), public domain). Page files `pNNN` are the pages of
   the HathiTrust PDF; its first page is HathiTrust's notice, so file `pNNN` is image `seq=NNN-1` in the viewer
-  (not yet checked in the viewer). The supplement, *Tosafot u-mafteaḥ* (Leipzig 1867), is not included yet.
+  (checked in the viewer, 24-Nov-2026). The supplement, *Tosafot u-mafteaḥ* (Leipzig 1867), is not included yet.
 - **Translations that exist:** none in English; studies only (for example D. Mackler, *Jewish Studies Quarterly* 28, 2021).
 
 ## Method
