@@ -62,5 +62,5 @@ WORK = {"schema": 1, "slug": "frankel-darkhe", "order": 37, "kind": "translation
         "base_edition": {"label": "Leipzig 1859; HathiTrust scan", "scan_url": "https://babel.hathitrust.org/cgi/pt?id=hvd.hwmg1g"},
         "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.",
         "cite": "Zacharias Frankel, *Darkhe ha-Mishnah*, Hebrew text with English translation, ed. Ezra Brand. Open Seforim",
-        "url": "https://openseforim.org/frankel-darkhe/", "repo": "https://github.com/openseforim/frankel-darkhe",
+        "url": "https://openseforim.org/frankel-darkhe/", "repo": "https://github.com/openseforim/frankel-darkhe", "doi": "10.5281/zenodo.24559624",
         "licence": {"name": "CC BY-SA 4.0", "url": "https://creativecommons.org/licenses/by-sa/4.0/"}}
